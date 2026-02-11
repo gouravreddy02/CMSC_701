@@ -1,0 +1,17 @@
+# Executables
+**/fasta_stats
+*.exe
+*.out
+*.app
+
+# Test files
+*.fasta
+*.fastq
+
+# Submission tarballs
+*.tar.gz
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
