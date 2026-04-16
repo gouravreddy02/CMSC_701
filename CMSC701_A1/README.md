@@ -1,6 +1,6 @@
 # CMSC701 Assignment 1 — Suffix Array
 
-A Go implementation of suffix array construction and querying, built for CMSC701 (Computational Genomics) at the University of Maryland.
+A Go implementation of suffix array construction and querying
 
 ## Overview
 

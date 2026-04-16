@@ -1,6 +1,6 @@
 # CMSC701 Assignment 2 — Bitvector Rank/Select & Sparse Array
 
-A Go implementation of succinct bitvector rank and select operations, applied to build a sparse array data structure. Built for CMSC701 (Computational Genomics) at the University of Maryland.
+A Go implementation of succinct bitvector rank and select operations, applied to build a sparse array data structure.
 
 ## Overview
 
